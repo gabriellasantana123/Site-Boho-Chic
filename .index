@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+    <title>LOJA BOHO CHIC</title>
+    <link rel="stylesheet" type="text/css"  href="loja.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+
+<body>
+     <center>
+     <img src="https://lh3.googleusercontent.com/fnQVh-RLwTAxl7hcB96rz3YGWTeYlpDHtyueL1QxhGOhwLIn1Xg_HP8LyqhHSL_KvD314AyrMK1j5BtYEFY6EVDCJbdnY8fwy9i3zbCzWMGlfnrO8nhKtGKPJW-v5kQ0AoBW_tD9TfyZjkPbJADY5RTEEbOa4hZv__jrchGTeTNBfAwYhb3oC1Gd4IZ7-LjGRcOABVOmqypt88vp2oT7EfxL2qfYXE8y4oNuDshM3QQm2yQ5lFYnQ-faWun7R7ApRRuMpndFn9MS7lBO_2GrYDt56xMeM_D6oE3GGGoRpaWCG3jUIgTiNZC19pRrlFS1m-kbqxrEv32zZWu5ohxARyu3fm0Reg2qMj_7iTEQ4KXgoTVRDoHEuYGO_kL7sMvE75BIdeO59poFlUELzu-MhEZdkzcXBkfUPb15Y8NTb3j4eOjalqbyhB6YDSDpzjrF1DDgdb4XiOIPMsTDshZAx8ub3iifydbVbn6GL4i2X8QyHckFhMZoofxvCD7TCZKMeNi2oObadEhK9zmC73THRzDyQtoA4ydyxYB7MQ-roWEfZRKY9ng4YjA9UA73m113L0jAPU0GwpnSugU_j5xV1kdy60xJoKxwX4FYIqnRgrxRqqe_ETo8TE0asPwxaeXmfj4uTu4cjMht9XOwcQvmb2LDwrm5YCc40FAT6y_5TDMUg2BAJh_47DBy5zqIwKaz9UEamP7PTSe_VjsebUWpAIueuDFsGKoJXIGsC7_M_WmsaxXQ5Kg7p10E5M_5o-A=s625-no?authuser=0" width="400" height="200" vspace="0" >
+     </center>
+
+     
+     <nav>    
+       <ul class="menu">  
+          <li><a href="#">Camisas</a></li>
+          <li><a href="#">Cropped</a></li>
+          <li><a href="#">Blusas/ T-Shirt/ Body</a></li>
+          <li><a href="#">Vestidos/ outros</a></li>
+          <li><a href="#">Saias</a></li>
+          <li><a href="#">Short</a></li>
+          <li><a href="#">Calças</a></li>
+          <li><a href="#">Jaquetas </a></li>
+          <li><a href="#">Conjuntos</a></li>  
+     </ul>
+   </nav>
+     
+   <div class="navbar">
+       
+    <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+    <a href="#"><i class="fa fa-fw fa-envelope"></i> Contato</a>
+    <a href="#"><i class="fa fa-fw fa-user"></i> Login</a>
+       
+  </div>
+
+  <div class="topnav">
+    <input type="text" placeholder="Buscar...">
+  </div>
+     
+    <h1> NOVIDADES </h1>
+    
+    
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/007ar_dXDUWgZK6_LnA-L_T2Wq5_WbfHeu2629_IPJynsKWmWBiKCQQT4fU5w8AOclQ79Zz9E3oaR6MFP2ycIt9XASWeRR-1IjNvZZ4lG_A8MghNkEtOE99dgEiXqu2QHniQMqLXYpsKZiFsFt8NDgPTjxKK2HlJHVQEfM6OKGyRQTRY9iI770cXPdR8N3Ml_aJwJqIue8WdD5mPwJkarEGSvoe26fwZPVK-pFV6fx2YAQLgCrQq5jfpZpVdDvnsWhlXDLz2oQdVhUZKKKRVoow0fWENxYGaXgWwe25bwRPYdLcuG8dNP2-fN_4ZDsTGOADuT35ufKt0qPH9UDocKPLqb-ZDrh-9sQCipVYCeHaaqQqynLhXeShS6tsURchypWndhvPOz5lDodkn9Jk2icO0I0sdwdNRON0c0SwCnHKrpbTCGdU4MT9-QEwvKQN74Lhop-Y79SFEyYZnSsyK42ZEPKlQMf_Hsm4eQVy1vpydrXU-WHCLMcu5fMkZFDruaKOokK26y4upUiF_TcVON7i7XUUUJU8zCjISPQ-xl-oGQ7b0cPZkWkTvlP9rhJzgvdjRJV8bGrz9eU3ohLzqMwVmdE0-ugfviv6kn5AO-IZvy3FA3MEr3WiPEMqOpFkiOLqLkpvhN9eIpp4yxuVMG2CGfbG05A5VLIMj6_jMUMiLLDjqMFcNj5bzQ7whwkIKlbihlGJWEgOtTEUI6qK2aPq2nvQI2_08ho9uwAlTvzIaRW5B9xeqDAAuy36o3cU=w517-h625-no?authuser=0" width="300" height="280"/>
+        <span><pre>Camisa
+    Uma peça clássica, atemporal e super versátil!
+    Disponíivel em várias cores
+    P ao GG 
+    R$50
+    </pre></span>
+    </div>
+
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/90PEjlwXh78jzl6OLqykKQhzBizuNhNJXu-LDQSAkQ208awMPuLT3Mkc4F4beH3LlXAUsb_sUF8f_yP_A3X_oTpGleZVvE5WKymC-RQ7LRRH8PH9LYFWi11LdaFci4sL0mv9g9s0v-acywlbZDPakS_u2xZIqsouRlTwvDCZO5Qhkw80Drdir-sWv6SNnwomJc5iZ4jibpO-D499CgebxuJCprIcpMFwcwrMHwjjUKpEN-KZP29XOjv0e2hNAIzAdEC8oOuaKxKJZM1AtEqARBxzy-ohDitQlft22jfuRg9hzV8JEpVcMeb5CuOJ2MmgEpWXKcYKEMP9CDExat0HyJs--zFaEDNvLWIUwEBN3d6SKZBb34m9bPyqsgSt0sHkmjHoHQ2p5iHSHyVpq7oD3-BnKj8MW8A7P1E_LYVy1iDbMetO5nguzF-mHg8acOsJuIY5k4EYKnLUhfQVS438xBcKmTsC5Dr54bp2NsG2Nudb67xl86s5vb6HJD1tp-SBR9qLJm3SXkqABxMDVg7XHZ0dLSb4c0nz4G54kw74Tkw3vHNCdzXjeJ2U_n-j92hUK95H3QarHWC15tqQETycio73bDkkTAQSr_8aW0BF8on0CZvJAnWo0WmCIFVDVOFQ44I-tisSiIEDcriRxgUoZO4hWxhwrOp7lPwMbRxiMGHt080b9TdooHMSXuYZ9Y-Rp1wD02paXiUR9MLHqvrnmKbp5PL75vCzDy0m9VEqzlsXrGUVhQnWy9Ic-ac9dGI=w609-h625-no?authuser=0" width="300" height="280"/>
+        <span><pre>Cropped básico canelado!
+        Reposição em várias cores!
+        Tamanho Único
+        R$20
+       </pre></span>
+    </div>
+    
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/7lVfJ8WnZ0dhuM0iP9m1TQisZqMinl6g-eEW0k0P5ihC5FCxEeVySAMQkZ9ofjL15c0J2RHREKYOsu7w8hP3ZgWYCho6RnWIB5DOjHaT_NCNApHK2pMqYEvyrofGutb93yOQllGwjE0cJINf3tBn2D5TB-Bv3QCZzkqPFikYEKmnQtrN0eBXzaRisNHjZUW01xu_MWxo5Iz-yuJLgk8H7wgKtiqzmjXWyBfUa9ev8dPMBQ6Lbed4ReoZuDYgj-kw209okeZ_9ewFoZCRYIWwB_LfKzV6kvJLCx9MkKbk2mS_R2ecrRqf_HKhFx7-L4vIQQWu6ULrNAGqLlTmNuUCvRv7g-a9rd0Y2rHXbu19aX92RvA6QDK1MTG2-9O-IsLSXVnlDx-piCnr3n_fCPM3DLTii3KZLCvLckfe4zbRyJcqMmDcCFhWVIKawjykABSyrAJUXXDjGCIJZXoz2H4bapNAp_sSazbKO-mX3Eao0eDPFI9_2s1Jj9VPvM7GkCbX8jniaMwlDNoQ5ZudVeCkYInYcPJRSVXLCO-Gy0xeN1KXj48i7sbRehEoiTbJK3ESKbb7IEz4G5AKakx-bRdhP5veQ1M1UIDthUs-5mCdtOsGXpeycvwj6GFZ1CrGwxCg7BExUI0jVuXU1VUdyo1BTHpCTfqPchuKel4bkDPEwGWFKWIUWOIi6-SEFdze0kuNiDkJiJN44JJWmLRFxWXRNQGkiI6FJCOMQt5d29IF01hhNvwOiYYtCE3vmsS_QdQ=w500-h625-no?authuser=0" width="300" height="280"/>
+        <span><pre>Vestido Longo Perfeito!
+         Disponível no verde e preto!
+         Tamanho Único
+         R$110
+       </pre></span>
+    </div>
+    
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/ax4LX25FtpBcH3jqBpDdNlAfOBbrwVRE3u9eSJU0bGr1PpXvsizvA2XMLPZdba08UA3bPvcOWlsBSwJpKcuKu5ZomXXJFFqpSAT50JbeRzE1BXfkgkNrRq0IwqVHXJbr4SqatGt7i4mQnzzfx0rvAE99SzOVg0svvtIPqVSGsPqEx2ef0Ise5IZzOfU8ndVwssYgnjSQajN8Za42tCtC4uvsvID9gB_VYUl5btbwJACKnnskhohjVjIF2Wkij2sdcRp5IjvVCuprMzn2dZtzj7X-XDtEjMSjmFmDaNKcoTNV88ELM4a8CfvMFAUytR3QAwr9Q3bEWV_Ch8ZV-B8jGYb1Qg-pS6tK8y3VbRmg2trtKfzN9i7722i76pvMum4E9f4YvDmcjkVIPooRKP38qyPSic1OUpNJ_n6wmXCTTqtgRqimwMbW-CuzsNDTz98zGjlXnBGJQ4wnLtqBSukE6ZOMUDnTmSbyRVRZOUrTgjqbGwEESciY1eFJzux43Jkdw6-s-heU1cQGlJVd7Mjj9iUfN0i0wZZyPa0ml-mFsepsfAmnKtTusiNUJPUXgeHH3wscltosjSicwhqGfnCnc4BqUlY_kv35-2lJN6ipQA7rJ0Qkv9cI-gmFLWczLlDcMnTBQc-LuDWHQNqNXD23H8ftPtgNX-nFgWmcMDbxS5f4YP61PybjHI6DxVY0M7rRo6am_404Hg2g-pqGpmfrr4qYW4s6QXtBykoPuyVUDXHkoNIO6wYIIKsks8frNUk=w594-h625-no?authuser=0" width="300" height="280"/>
+        <span><pre>Body Tule
+        Não pode faltar no seu gurdar roupa!
+        Tamanho Único
+        R$20
+       </pre></span>
+    </div>
+
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/XqHYlfnkfzbCT0TSvWdZFcY2GHqDJZZyN0ShGcwiuMAE4YVYB-dL5tpsCe-kH3EB_KfOagJSFqb3asql-k9ZdwLF7NEQ-w3mh3UAuozxo01xi6nJqWj7mbeGMG-KqRfoZ6u0ph4rUeJd9F151MmWUhw9p22j18paBsx6vPDT6NI4HOg4Xjh94Dh0nIkx0qyZ4jCuvErA6r518NiuTAG5grbkYvZT3Ia3BCb-RV7oeyCxn84k7ExqsHyJPUJJzQU_3BlJcThVCMVtF4jhpOQ7PExbpmAKJ1AcUGCoYe6D_IH9VhwT1BBrX_QGeA0m-1lBAiF8NWsWYCzpQ5a9rJeiSR3nauKOb5bROF20AkxDoPWCJDREDLfUGdTeV2LuQ9NjBZDcAKgimcoD15uFPPSO4rlX6pHLxzZ6UnXbn8EpHQGGPt8h__ardsTGQPxaTit8l94L-VcCifNJRTgldrysWkqQTiFdg01GRaf9OOukNEJ9ZvSEKdGbC8GK6AfUKzJFGwEQLCwmwmymdlLy4dXf2n6en0-BiOKKixhJefiNuM0VtwhvMV8mZHs0L-q5BkApFvoY017ldWxXP4EHddoWoJVQ5IuOl_nxsPYH5-vFil31NtED2IOQTiAn5t0dcFI0DMYnJuX1ZT2Qq4KrDpAPecsmmLQYcucyaip1h1767vsyW_a4eRkRYdbwiNV4zCOPG0zfarJ2dk1DVQXOYOuMEPqT3md87QO6y5RFny1On1Eynlteq9CfljpA742icCY=w500-h625-no?authuser=0 " width="300" height="280"/>
+        <span><pre>Conjunto
+        Cor perfeita do nosso conjunto de sucesso!
+        Em linho
+        R$120
+       </pre></span>
+    </div>
+
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/mm7vzQ7acnekAmdLxv0UR8PsEh0M9g5GJDWYgkwuN1t01ogvSVOiRNobrhMCqHbLio2CCamwazPmZCbx4VtXpLuvQAQV8fi9QvLVfoxrslOugRzqzIM9N_qq6jnMcryjh1-bTisjVDe822v14wIIA3kAKQViP2k5kiizK9d1C0KRfaiwShoa9kQYkcs6hF5HNCVWIzG_J2QY8JU36ZWEbQlLpJO3QHlL7v3iMAOOLNu_PoZ4HsHUB8_sYI_1VxXKzV01L1aKf-bFxyZnmdLZCRNoIqxCBrP3OCO_QJXb15v7GlAq6wODg0wmjpxQtRSB6CpoANDtE1hpj-23qD8MKSpcEqZT5WIq3iFHQjYfAswBItiPZ10aEnukv5eiEls5IwzAuNO1W5QWlY2Ovq63OdMW93sBP42OnqQLy7oDqXIAxo9kz6IlJhuTNKPn8rPA83t_zKYvBxzQXXM2IGIXiQ3LiyCrqHe2Us1fZHcAP4PvQUzMV89vN8CAyyM5dLGZ7YdaI2QgvRxOQaeLiWJ2bK33MTI8mFchPhpn9M30R_5minywy5uIiqAbyV6FDcLFGN4TS6SNKtu7e5TmzdNEgeAvvVgop4i0sdygf28-s-a4_BhzO8JXVzKKrne4oxqGrg-uBxYBXClxlG3wtTcIO2v4VWaJlF5GIGJs9D3cdp3R2RNr9otYWHk1ukmcxL9Q6eWbwKIWFmfqp1zuv3qXnwW1Gze7xb0JS_flbVT3xOZQ9e7ZPNsljISRShfEDnM=w480-h625-no?authuser=0 " width="300" height="280"/>
+        <span><pre>Camisa Cropped manga buff perfeita!
+        Disponível em cores lindas!
+        R$40
+       </pre></span>
+    </div>
+
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/AaeutJQ2ZtgxyKQnayyMrzlwO53v01nq2A-OQFeKaVWK1T7fZpH5__MWqxRTEeXvRFNmpzdlpgcEmiaaSVnj5jGEFYEzFU5j3viGb0yBDuqMykPId5tJmlkBF1owaxtxxFYU-N_sOVICP4rnsDLRTuMUFOlSM6saUSdnn7T87TpyzHD-U-w1Qry4e-qAJGWpFu7f-gVKlpk6aHLOpznZNT9J5yErA698w2vE79lzpI5tVoWFB_f9qN6r9kgq9mddEeHvIHTYBkKHK_riKEk5_BVR-8GdzdlE6FyoQaEZ6h80VVluo5JYt4K5SxdIvq92s3pMPbXcirPoNbn5YKrdi1QXnJf_TUdUHc2UUmGdW8a3czXSdaI0ohAw-gml9tZ0IZJvrTt-F8GMUt-SWfxmidkxsGhxNZa6NeOcUIgujjigdc3k-WbmLnBwKLOtnBrU-GR8_rm5zu2N49B1BL0Hphho1ec7qs0q6uKw0KXIYaNrIFlMxSdAjMw2LO6Y5vnTVKePXDXspwXdJdKYImk3QTPxVpPJq0g3UtYcEcj7ulQ4Ae_bAr18NKvaG5R1jrHXXuOemmWP98yqGAODNRNZ2aenzklps_XiwUI2DX9tofjVcqu55o6GO6l-YkM2a6Ejd-tmrIzphqA_xJ3zkIMoA9WiQQLIAjEmbjZkujQEIKGgemCUYX4bonONBcwa2lA_W9kk7QuO9ZtLAAEThQS3lZh_Gf0xHtVHH4JNQLfLGwlYmGsqT87M6Yv4EjDdaVA=w549-h625-no?authuser=0 " width="300" height="280"/>
+        <span><pre> Calça Mom
+        Calça perfeita que passa uma 
+        personalidade e estilo!
+        R$80
+       </pre></span>
+    </div>
+
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/ewkr2hrWkWwvgNeHuxm1BDPv2q160d25kD70xF7Wn0rdf2BqgVfQYmJeyCvVhBrStw8RL5b1kEYN5tAhkgo9GrxhH28lZ8j6Lfx5n0HgWjcAWiF1WqFZprNI1kAF0fEHIoPTPsqyeR4CFRkSjB4VE5B1ygq0vSTnlg9pOg5KJy1NS66tT0FSbywqV5cuw4_496M9gLaQm6hYZ1RP-Y2PzMx29BTtYx2SDXr7nAR1ymk19UKkB6GAc7ndwFQfikkUtOQko9LGDzWovEbIVkWF_wnRgdeWwRYT0YUFoA_MnDnW4agn45lqUVE0pTcWBC3hRFLHjFeJQjItf1HWxj_wNTFRef1ck1uSBD4d3c5jCUX352xeTJ2mvSa41LX1gPikeqLOj-A74W0o10s85NTmahbMJb8XSL8iqSmKYbnCF2Y_HQ7R8YaZcGpXO90Ij90Q0JiNfGKswEii2M3BHmkJ7Fs5obQ4M6IRCWH5djzV6L4dt_0pY3xx9aoMJDuXsMNjalm_PDXJ_c619kIuYRNKqQ_in-JOqEJpGjLc_-65jPgxDe3uskwsWwAg97xg0UIC5u06a6l_QTx-9nOtmlRG50Epk7LkN7rcoNnm36OsYG749hxdaum5yhtG_nHzynw-L5WPt0qjGXjYJgHzY29mk2JGX0NvEiUmVmD__1_cDYOCl3WRPjczVrMJq5foeKn50pFuPaWlYpHNw23DsL1DomzYdSXC92ghVKuLhHx6nYcKXDWHbURIISoShCeHNDw=w508-h625-no?authuser=0 " width="300" height="280"/>
+        <span><pre> Camisa Acetinada
+        Sucesso de venda!
+        P ao GG
+        R$20
+       </pre></span>
+    </div>
+
+    <div class="box">
+        <img src="https://lh3.googleusercontent.com/R6KWjTT9hrjfYG7W30FFLwQdtuESRzQC9hYScGI_d1Q4UBP0dyM8cHglgGKEu7m3EWdKUrjMdCBU1LXbLMZh8t2o2GCgaUibN-4aVNWGDvon-Uvd575_HADoW-rKcFMM-qXhRJKaUPz7nB6ajRJFH5UOGqPjgmWtAdLVtLWrkNjQtn9LQEe90JhqTHkpYqdmNvr_8fcF75jEN_dK9s0BYhB90OMw9fuTpWAOcE53zVQCZAS1IbWPg3ORi33TI5YxVe3hklzOdVHv-1FDj_M5sTZb-Z0LSOS8Lp1IeGnE0eGVdIIrNml1moDxLxwyMn2CCz1SXif-4n_7-B3xB_FjkVKjkstqNn_lA2it5ruG26SgUdRH26NU6cFtIB9OXafu4A19kaBDzU4HBVbe4Y5lYy3OeT8jGkG_K6RneQdoloEFFyn3LX7z6O6SCOU9PVyVgDoGtCQzZmj8rOyqaqg905Jwq6Vf7JgPcWJW5Vr0lDFLeMwL-fJgxzwrk5lqPu0Hdk0MY_rnqq4V1lG0N3KgSsAvFdIhrfns0nIzb-cw-l2OMLaI0qBRPy9paPdIKeIpjQ5h_CpDQCeCcyWbfZk1AeRnMtHzmCMd_ryKwKuoKkW91Dyio8lZSanR4lOUaYcj69ktH6j2FFMt7VoLq3jXJ6jOogS9pC18fQ7I-rvxJV-Y_X0mWJoiU0SCncwnM0c0HAo1JaBelHbHi3dyMkyLpD4fT7pT2jQdtItP7C6M6sTe2u6mamfg3qiCAiBCrg8=w505-h625-no?authuser=0 " width="300" height="280"/>
+        <span><pre> Blusa de tricô
+        As nossas básicas em tricô já 
+        começaram a dar as caras por aqui!
+        Tamanho Único
+        R$20
+       </pre></span>
+    </div>
+    <style>
+    div.box {
+        width: 410px;
+        display: inline-block;
+    }
+    </style>
+</body>
+</html>
